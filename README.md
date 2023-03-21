@@ -3,8 +3,11 @@
 <h1 align="center">Hello World! 👋🏽<br>
 I'm Dustin, an aspiring <a href="https://www.linkedin.com/in/dustinbalugay/">Tech Professional</a> ☁️</h1>
 
-<h2>Information Technology Projects 💻:</h2>
+<p align="center">I'm keen on learning technical skills and growing my knowledge to solve problems and provide value. 🌱<br>
+And when you don't catch me on my laptop, you'll find me on a golf course, in the kitchen or spending time outside. </p>
 
+<h2>Information Technology 💻:</h2>
+  👨🏽‍💻  I’m currently studying for CompTIA A+ Certification and learning AWS
 
 
 <h3> &#x1f4c8; My GitHub Stats </h3>
