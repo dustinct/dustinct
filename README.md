@@ -7,7 +7,7 @@ I'm Dustin, an aspiring <a href="https://www.linkedin.com/in/dustinbalugay/">Tec
 When I'm not on my computer, you'll find me on a golf course, in the kitchen or spending time outside ⛰️</p>
 
 <h2>Information Technology 💻:</h2>
-  👨🏽‍💻  I’m currently studying for CompTIA A+ Certification and learning AWS
+  👨🏽‍💻  I’m currently studying for CompTIA A+ Certification and learning Microsoft Azure
 
 
 <h3> &#x1f4c8; My GitHub Stats </h3>
