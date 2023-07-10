@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello World! 👋🏽<br>
-I'm Dustin, an aspiring <a href="https://www.linkedin.com/in/dustinbalugay/">Tech Professional</a> ☁️</h1>
+I'm Dustin, an aspiring <a href="https://www.linkedin.com/in/dustinbalugay/">IT Professional</a> ☁️</h1>
 
 <p align="center">I'm keen on learning technical skills and growing my knowledge to solve problems and provide value. <br>
 When I'm not on my computer, you'll find me on a golf course, in the kitchen or spending time outside ⛰️</p>
