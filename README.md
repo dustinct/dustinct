@@ -7,14 +7,8 @@ I'm Dustin, an aspiring <a href="https://www.linkedin.com/in/dustinbalugay/">IT 
 When I'm not on my computer, you'll find me on a golf course, in the kitchen or spending time outside ⛰️</p>
 
 <h2>Information Technology 💻:</h2>
-  👨🏽‍💻  I’m currently studying for CompTIA A+ Certification and learning Microsoft Azure
+  👨🏽‍💻  I’m currently studying for CompTIA Network+ Certification and learning Microsoft Azure
 
-
-<h3> &#x1f4c8; My GitHub Stats </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dustinct&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dustinct&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Connect with me:</h2>
 
