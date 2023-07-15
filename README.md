@@ -19,13 +19,10 @@ When I'm not on my computer, you'll find me on a golf course, in the kitchen or 
   - [osTicket: Post-Installation Configuration](https://github.com/dustinct/post-install-config)
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/dustinct/ticket-lifecycle)
 
-<h2>🤳Connect with me on LinkedIn:</h2>
 
-<h2>Connect with me:</h2>
+<h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/dustinbts
 [linkedin]: https://www.linkedin.com/in/dustinbalugay/
 
